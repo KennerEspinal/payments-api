@@ -1,4 +1,4 @@
-# CRUD de Categorias en Micronaut con Gradle
+# Payments API
 _Sistema desarrollado por KennerDev_
 
 <p align="center">
